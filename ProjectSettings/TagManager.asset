@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Point
+  - Line
+  - ObjectCollector
+  - LeftWall
+  - RightWall
+  - BiggerBonus
+  - JetBonus
+  - ImmuneBonus
+  - GumBonus
+  - GravityBonus
+  - CoinBonus
+  - GravityDebuff
+  - SmallerDebuff
+  - Bomb
+  - MagnetBonus
+  - MagnetRadius
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 1827044187
+    locked: 0
+  - name: Objects
+    uniqueID: 807855785
+    locked: 0
+  - name: Spike
+    uniqueID: 271141993
+    locked: 0
+  - name: Ground
+    uniqueID: 1722928437
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1857969745
+    locked: 0
